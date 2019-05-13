@@ -158,6 +158,11 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 - Similar to Quicklook on macOS.
 - I can just press space to see the contents of a file.
 
+#### [AutoKey](https://github.com/autokey/autokey) - Keyboard mapping and automation
+
+- I use this to make use of the muscle memory I have of the keyboard shortcuts from macOS.
+- I share [my key mappings here](https://github.com/obahareth/my-linux-autokey-remappings).
+
 #### [Insomnia](https://insomnia.rest/) - Great API tool
 
 - Full-featured HTTP client that lets you test and describe the APIs you build or consume.
