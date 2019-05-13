@@ -149,10 +149,14 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 
 ### Utilities
 
-
 #### [Plank](https://launchpad.net/plank) - Awesome Dock
 
 - A dock that I managed to get to be very similar to my macOS dock.
+
+#### [GNOME Sushi](https://gitlab.gnome.org/GNOME/sushi) - Preview Files
+
+- Similar to Quicklook on macOS.
+- I can just press space to see the contents of a file.
 
 #### [Insomnia](https://insomnia.rest/) - Great API tool
 
