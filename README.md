@@ -49,7 +49,13 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 #### [Albert](https://github.com/albertlauncher/albert) - Launcher
 
 - Open source alternative to [Alfred](https://www.alfredapp.com/).
-- Alfred is both my launcher and clipboard history manager (via CopyQ). See [this article](https://medium.com/curiouscaloo/macos-to-ubuntu-part1-alfred-replacement-7864b4d26397) for a nice setup/tutorial.
+- Albert is a powerful launcher and file search utility with plugin support. See [this article](https://medium.com/curiouscaloo/macos-to-ubuntu-part1-alfred-replacement-7864b4d26397) for a nice setup/tutorial.
+
+#### [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager
+
+- Open source.
+- Clipboard manager with good search capabilities.
+- Can manage copied images.
 
 #### [Todoist](https://todoist.com/) - Simple and quick task manager
 
