@@ -24,7 +24,7 @@ List of hardware, applications, and tools that make my Linux experience amazing.
 
 ## Hardware
 
-Computer: 13" Early 2019 Dell XPS with 4K monitor.
+Computer: 13" Early 2019 Dell XPS with 4K screen.
 
 Trackpad: [Apple Magic Trackpad 2](https://www.amazon.com/Apple-Magic-Trackpad-2-MJ2R2LL/dp/B016QO5YWC/ref=sr_1_3?ie=UTF8&qid=1538413611&sr=8-3&keywords=apple+magic+trackpad).
 
