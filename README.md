@@ -6,6 +6,7 @@ List of hardware, applications, and tools that make my Linux experience amazing.
 
 ##### Contents
 
+- [Linux Distribution](#linux-distribution)
 - [Hardware](#hardware)
 - [Applications](#applications)
   - [Productivity](#productivity)
@@ -21,6 +22,10 @@ List of hardware, applications, and tools that make my Linux experience amazing.
 - [Similar Setups](#similar-setups)
 - [Related](#related)
 - [Contributing](#contributing)
+
+## Linux Distribution
+
+[Ubuntu 19.04 (Disco Dingo)](http://releases.ubuntu.com/19.04/)
 
 ## Hardware
 
