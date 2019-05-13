@@ -1,8 +1,8 @@
 # my-linux
 
-List of hardware, applications, and tools that make my macOS experience amazing, inspired by https://github.com/nikitavoloboev/my-mac-os (with shameless copy pasting (I hope that's ok 🙏🏼) where I couldn't find better wording).
+List of hardware, applications, and tools that make my Linux experience amazing. I have a [similar list](https://github.com/obahareth/my-mac-os) from back when I used to be on macOS which was originally inspired by https://github.com/nikitavoloboev/my-mac-os.
 
-![](https://imgur.com/K5uLtya.png)
+![](https://imgur.com/WD1Gx9Z.png)
 
 ##### Contents
 
@@ -72,7 +72,7 @@ I'm slowly transitioning to cross-platform software because I want to be able to
 
 Here is how it looks:
 
-![](https://imgur.com/4NQb6wu.png)
+![](https://imgur.com/D3OC2ft.png)
 
 #### [Neovim](https://neovim.io/) - Powerful text editor
 
@@ -86,7 +86,7 @@ Here is how it looks:
 - You can find my dotfiles [here](https://github.com/obahareth/dotfiles).
 - I use the [Pure prompt](https://github.com/rafaelrinaldi/pure) and the [Nord theme](https://github.com/arcticicestudio/nord-hyper).
 
-![](https://imgur.com/AbjcLCd.png)
+![](https://imgur.com/KerY73g.png)
 
 #### [GitKraken](https://www.git-tower.com) - Git client
 
@@ -196,7 +196,7 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 
 ## Desktop Screenshot
 
-![](https://imgur.com/K5uLtya.png)
+![](https://imgur.com/WD1Gx9Z.png)
 
 > Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
