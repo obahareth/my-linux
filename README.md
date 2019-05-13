@@ -163,6 +163,12 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 - I use this to make use of the muscle memory I have of the keyboard shortcuts from macOS.
 - I share [my key mappings here](https://github.com/obahareth/my-linux-autokey-remappings).
 
+#### [Fusuma](https://github.com/iberianpig/fusuma) - Simple trackpad gesture configuration
+
+- Easily configure trackpad gestures, I use this to get the same gestures I'm used to from macOS.
+- I share [my configuration here](https://gist.github.com/obahareth/ed84bc0c8a81fe1d53f656681c55e0b2).
+
+
 #### [Insomnia](https://insomnia.rest/) - Great API tool
 
 - Full-featured HTTP client that lets you test and describe the APIs you build or consume.
