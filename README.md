@@ -177,7 +177,7 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 #### [Fusuma](https://github.com/iberianpig/fusuma) - Simple trackpad gesture configuration
 
 - Easily configure trackpad gestures, I use this to get the same gestures I'm used to from macOS.
-- I share [my configuration here](https://gist.github.com/obahareth/ed84bc0c8a81fe1d53f656681c55e0b2).
+- I share [my configuration here](https://github.com/obahareth/dotfiles/blob/master/config/fusuma/config.yml).
 
 
 #### [Insomnia](https://insomnia.rest/) - Great API tool
