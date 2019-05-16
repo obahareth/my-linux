@@ -2,7 +2,7 @@
 
 List of hardware, applications, and tools that make my Linux experience amazing. I have a [similar list](https://github.com/obahareth/my-mac-os) from back when I used to be on macOS which was originally inspired by https://github.com/nikitavoloboev/my-mac-os.
 
-![](https://imgur.com/WD1Gx9Z.png)
+![](https://imgur.com/wQdaVnF.png)
 
 ##### Contents
 
@@ -25,7 +25,10 @@ List of hardware, applications, and tools that make my Linux experience amazing.
 
 ## Linux Distribution
 
-[Ubuntu 19.04 (Disco Dingo)](http://releases.ubuntu.com/19.04/)
+[Kubuntu 19.04 (Disco Dingo)](https://kubuntu.org/news/kubuntu-19-04-is-released-today/)  
+  
+Icon Pack: [Papirus](https://store.kde.org/p/1166289) Dark.  
+KDE Theme: [Arc KDE](https://store.kde.org/p/1167640) Dark.
 
 ## Hardware
 
@@ -160,14 +163,9 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 
 ### Utilities
 
-#### [Plank](https://launchpad.net/plank) - Awesome Dock
+#### [Latte](https://github.com/KDE/latte-dock) - Awesome Dock
 
 - A dock that I managed to get to be very similar to my macOS dock.
-
-#### [GNOME Sushi](https://gitlab.gnome.org/GNOME/sushi) - Preview Files
-
-- Similar to Quicklook on macOS.
-- I can just press space to see the contents of a file.
 
 #### [AutoKey](https://github.com/autokey/autokey) - Keyboard mapping and automation
 
@@ -176,7 +174,7 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 
 #### [Fusuma](https://github.com/iberianpig/fusuma) - Simple trackpad gesture configuration
 
-- Easily configure trackpad gestures, I use this to get the same gestures I'm used to from macOS.
+- Easily configure trackpad gestures, I use this to get the same gestures I'm used to from macOS (misson control, swipe between desktops, etc.).
 - I share [my configuration here](https://github.com/obahareth/dotfiles/blob/master/config/fusuma/config.yml).
 
 
@@ -222,7 +220,7 @@ It looks a bit like this (the screenshot is from the slack-nord-theme repo):
 
 ## Desktop Screenshot
 
-![](https://imgur.com/WD1Gx9Z.png)
+![](https://imgur.com/wQdaVnF.png)
 
 > Using [screenfetch](https://github.com/KittyKatt/screenFetch)
 
